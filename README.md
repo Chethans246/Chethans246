@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a intern at rubixe and currently working on a home loan project and have complete three other projects<br>Languages	Python, SQL<br>Libraries	Pandas, NumPy, Scikit-learn, XGBoost<br>Visualization	Power BI, Matplotlib, Seaborn, Excel<br>Techniques	EDA, Feature Engineering, Classification, Regression, Hyperparameter Tuning, Imbalanced Data Handling<br>Tools	Jupyter Notebook, Git, MS Excel<br>
+Data Science learner with experience in Python, SQL, and ML. Built real-world projects using XGBoost, regression, and classification models. Focused on learning, building, and improving every day.
 
 
 # 💻 Tech Stack:
